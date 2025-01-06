@@ -24,3 +24,7 @@ This project focuses on analyzing Sintec's sales performance relative to its com
 4. **AI Visualizations:** Utilize Power BI’s AI capabilities (e.g., Key Influencers, Decomposition Tree) to uncover hidden patterns and trends in the data.
 5. **Drillthrough:** Enable Drillthrough functionality to allow users to explore detailed information at a granular level for deeper insights.
 ## [Click here to download the report](https://github.com/harshachelluri/Competitor-Sales-Analysis-in-Power-BI/blob/main/Competitor%20Sales%20Insights%20Analysis.pbix)
+
+
+![Screenshot 2024-12-03 153114](https://github.com/user-attachments/assets/95fd8cc3-2b14-4573-bfb1-e48bffdd1053)
+![Screenshot 2024-12-03 150503](https://github.com/user-attachments/assets/b044ed4b-15f6-471b-b284-b6d57e53b9ba)
