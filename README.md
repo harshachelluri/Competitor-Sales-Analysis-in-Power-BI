@@ -1,4 +1,4 @@
-### Competitor Sales Analysis in Power BI
+### Competitor Sales Analysis in Power BI  
 
 This project focuses on analyzing Sintec's sales performance relative to its competitors, across various regions, while also identifying trends over time. The analysis is conducted using Power BI to clean, transform, and visualize the sales data effectively.
 
